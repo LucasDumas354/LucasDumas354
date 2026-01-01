@@ -8,9 +8,9 @@
 <h5>Você visitando meu github torna ele mais especial ainda!/You visiting my github makes it even more special!</h5>
 <h5>eu sou um desenvolvedor em constante evolução ,buscando novas oportunidades para me aperfeiçoar a cada dia<br>/I am a developer in constant evolution, looking for new opportunities to improve myself every day</h5>
 
-<div align="center">  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonalucard354&layout=compact&langs_count=16&theme=dracula"/>
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDumas354&layout=compact&theme=dracula&hide_border=true" />
+</div>
 </div>
 
 <h1>Meu contato e linkedin/My contact and linkedin</h1>
