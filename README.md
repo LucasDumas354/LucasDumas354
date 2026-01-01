@@ -31,6 +31,9 @@
               
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
+  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -38,30 +41,57 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/express/00ff00" height="30" alt="express logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/github/ffa500" height="30" alt="github logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/mongodb/99ff99" height="30" alt="mongodb logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />          
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  
+  <img src="https://cdn.simpleicons.org/electron/47848F" height="30" alt="electron logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/beekeeperstudio/FAD83B" height="30" alt="beekeeperstudio logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="30" alt="insomnia logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/bulma/01ff99" height="30" alt="bulma logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/jest/FF00FF" height="30" alt="jest logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/bootstrap/4000bf" height="30" alt="bootstrap logo" />
+  <img width="12" />
   </div>  
 </div>
-<h2>
-    Dias sem bug!/Days without bug!        
-</h2>
-            
-![Visitor Count](https://profile-counter.glitch.me/wonalucard354/count.svg)
-
 <div align="center">
   <img height="150" src="https://imagens.net.br/wp-content/uploads/2024/06/sorria-sem-parar-uma-explosao-de-felicidade-em-gifs-1.gif"  />
 </div>
