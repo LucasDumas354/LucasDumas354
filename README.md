@@ -91,6 +91,3 @@
   <img width="12" />
   </div>  
 </div>
-<div align="center">
-  <img height="150" src="https://imagens.net.br/wp-content/uploads/2024/06/sorria-sem-parar-uma-explosao-de-felicidade-em-gifs-1.gif"  />
-</div>
