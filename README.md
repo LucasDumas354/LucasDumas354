@@ -92,7 +92,7 @@
   </div>  
 </div>
 
-![snake gif](https://github.com/LucasDumas354/LucasDumas354/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/LucasDumas354/LucasDumas354/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LucasDumas354&repo=LucasDumas354&theme=react)](https://github.com/LucasDumas354/LucasDumas354)
 
