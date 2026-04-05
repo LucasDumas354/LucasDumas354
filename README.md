@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/LucasDumas354/LucasDumas354/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </p>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=LucasDumas354&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDumas354&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasDumas354&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LucasDumas354&layout=compact&theme=dracula" />
 </div>
 
 <h1>Meu contato e linkedin/Meu contato e linkedin</h1>
