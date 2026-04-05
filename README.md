@@ -15,7 +15,7 @@
 
 <h1>Meu contato e linkedin/Meu contato e linkedin</h1>
 
-<a href="https://www.linkedin.com/in/tony-s-freitas/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-nunes-dumas-2902b719a/" target="_blank">
 <img align="center" alt="LinkedIn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
 </a>
 
