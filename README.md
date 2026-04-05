@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://wa.me/5521990684615" target="_blank">
-<img align="center" alt="WhatsApp" height="40" width="40" src="https://raw.githubusercontent.com/LucasDumas354/LucasDumas354/main/whatsapp-icon.png" onerror="this.src='https://img.icons8.com/color/48/000000/whatsapp--v1.png'">
+  <img align="center" alt="WhatsApp" height="40" width="40" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png">
 </a>
 
 <h1>Minhas habilidades/Minhas habilidades</h1>
