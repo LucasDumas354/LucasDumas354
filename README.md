@@ -33,3 +33,6 @@
     <img align="center" height="30" width="40" title="Excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
     <img align="center" height="30" width="40" title="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasDumas354/animação/master/animação.svg" alt="Pacman Lucas" width="100%" />
+</p>
