@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo/Welcome</h1>
 <h2 align="center">Eu sou o Lucas/I am Lucas</h2>
-<p align="center">Você visitando meu github torna ele mais especial ainda!/Você visitando meu github o torna ainda mais especial!</p>
+<p align="center">Você visitando meu github torna ele mais especial ainda!/Your visit to my GitHub makes it even more special!</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/LucasDumas354/LucasDumas354/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </p>
